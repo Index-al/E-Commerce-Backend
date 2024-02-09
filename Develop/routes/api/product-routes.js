@@ -15,6 +15,10 @@ router.get('/', async (req, res) => {
   }
 });
 
+router.get('/rick', async (req, res) => {
+  res.status(200).json({ message: 'Never gonna give you up, never gonna let you down!' });
+});
+
 // Get one product
 router.get('/:id', async (req, res) => {
   try {
