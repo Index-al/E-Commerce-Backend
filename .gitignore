@@ -2,3 +2,4 @@ INSTRUCTIONS.md
 node_modules/
 .vscode/
 Assets/
+package-lock.json
