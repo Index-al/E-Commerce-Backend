@@ -1,6 +1,6 @@
 # E-Commerce Backend 🛒🚀
 
-Welcome to our E-Commerce Backend project! This application is designed to provide a comprehensive backend solution for e-commerce websites, allowing for easy management of products, categories, and tags. Built with Express.js, Sequelize, and MySQL, it offers a robust API for performing CRUD operations on your e-commerce data.
+Welcome to my E-Commerce Backend project! This application is designed to provide a comprehensive backend solution for e-commerce websites, allowing for easy management of products, categories, and tags. Built with Express.js, Sequelize, and MySQL, it offers a robust API for performing CRUD operations on your e-commerce data.
 
 ## Features 🌟
 
@@ -77,6 +77,13 @@ The API endpoints for this application are as follows:
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact Me 📧
+Questions? Comments? Feel free to reach out to me at the following:
+
+Email: [DanTCathey@gmail.com](mailto:DanTCathey@gmail.com)
+
+GitHub: [Indexal](https://github.com/Index-al)
 
 ---
 
